@@ -30,11 +30,11 @@ Trước khi cài đặt ứng dụng, hãy đảm bảo bạn đã cài đặt 
 
 3. Khởi động máy chủ:
     ``` bash
-    python quản lý máy chủ run.py
+    python DownVideoo.py runserver
     ```
     hoặc
     ``` bash
-    python3 quản lý máy chủ.py
+    python3 DownVideoo.py runserver
     ```
 Máy chủ bây giờ sẽ chạy cục bộ trên máy của bạn.
 
